@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://REPLACE-ME.onrender.com/api/:path*" },
+    { "source": "/api/:path*", "destination": "https://jansamadhan-rek1.onrender.com/api/:path*" },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }
